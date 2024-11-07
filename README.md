@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------
 
-Java developer with an MS in Computer Science from UC Santa Cruz.
+I'm a Software Engineer pursuing a Master's degree in Computer Science & Engineering from the University of California, Santa Cruz. Over the course of my three-year career at Manhattan Associates, I have developed a strong skill set in Java, Spring, Spring Boot, MySQL, Docker, RabbitMQ, and the ELK stack, specializing in warehouse management software.
 
 * 🌍  I'm based in San Jose
 
